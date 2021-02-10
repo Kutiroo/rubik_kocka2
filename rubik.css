@@ -1,9 +1,16 @@
 body {
-    background-image: hatterkocka.png
+    background-image: hatterkocka.png;
+    background-color: lightgray
+        
 }
 p {
     color: #443507;
 }
 .right {
     text-align: right;
+}
+.margo {
+    background-color: white;
+    margin: 10px;
+
 }
