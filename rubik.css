@@ -1,6 +1,9 @@
 body {
-    background-image: image(hatterkocka.png)
+    background-image: hatterkocka.png
 }
 p {
     color: #443507;
+}
+.right {
+    text-align: right;
 }
