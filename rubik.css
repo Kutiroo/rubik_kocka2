@@ -20,3 +20,8 @@ p {
 .cimkep {
     height: 170px;
 }
+.erdekesseg {
+    font-style: italic;
+    margin: 10px;
+    background-color: white;
+}
