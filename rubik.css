@@ -1,6 +1,5 @@
 body {
     background-image: hatterkocka.png;
-    background-color: lightgray
         
 }
 p {
@@ -8,11 +7,6 @@ p {
 }
 .jobbra {
     text-align: right;
-}
-.margo {
-    background-color: white;
-    margin: 10px;
-
 }
 .kozep {
     text-align:;
